@@ -42,4 +42,4 @@ Outside of engineering, I spend a lot of time running, cycling, and training for
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/etienne-lagace/)
-- [Resume]('Etienne_Lagace_Resume.pdf')
+- [Resume](Etienne_Lagace_Resume.pdf)
