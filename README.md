@@ -42,5 +42,4 @@ Outside of engineering, I spend a lot of time running, cycling, and training for
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/etienne-lagace/)
-- <a href="[https://example.com](https://www.linkedin.com/in/etienne-lagace/)" target="_blank">LinkedIn</a>
-- [Resume](your-link-here)
+- [Resume]('Etienne_Lagace_Resume.pdf')
